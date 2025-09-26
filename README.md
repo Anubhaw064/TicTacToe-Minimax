@@ -10,5 +10,5 @@ A console-based Tic-Tac-Toe game in Java where the computer uses the Minimax alg
 ## How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YourUsername/TicTacToeAI.git
-   cd TicTacToeAI
+   git clone https:https://github.com/Anubhaw064/TicTacToe-Minimax
+   cd TicTacToe-Minimax
