@@ -16,7 +16,7 @@ A console-based **Tic-Tac-Toe** game in Java using the **Minimax algorithm** (Cl
    ```
    
    
-2.Compile the code and run the game:
+2. Compile the code and run the game:
 ```bash
 javac src/TicTacToe.java
 java -cp src TicTacToe
